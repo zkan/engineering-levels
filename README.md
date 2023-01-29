@@ -5,3 +5,9 @@
 ## Contents
 
 * [Patreon](./patreon)
+
+
+## Resources
+
+* [Awesome Engineering
+  Ladders](https://github.com/posquit0/awesome-engineering-ladders)
